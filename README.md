@@ -13,6 +13,7 @@
 ## Home Screen
 
 > adviceLy welcomes you with a home screen where you get a random advice.
-> You can also click on "Give me advice!" to generate a new advice.
+> You can also click on
+> "Give me advice!" to generate a new advice.
 > ![adviceLy Landing Screen](public/home.png "adviceLy Landingpage screenshot")
 
